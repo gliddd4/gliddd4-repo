@@ -21,7 +21,7 @@
       "description": "Please give feedback in our discord server! This is the first release for MySign, IPA Sideloader.\n https://discord.gg/hUK5m9MGFc\n Status:🔥",
       "localizedDescription": "Please give feedback in our discord server! This is the first release for MySign, IPA Sideloader.\n https://discord.gg/hUK5m9MGFc\n Status: 🔥",
       "iconURL": "https://cdn1.realmzer.xyz//IMG_4153-UV.png",
-      "tintColor": "326B8B",
+      "tintColor": "#326B8B",
       "category": "utilities",
       "version": "1.0",
       "versionDate" : "2024-12-26",
@@ -33,12 +33,12 @@
     ],
   "news": [
     {
-      "title": "Join our Discord Server!",
+      "title": "Thanks for using my personal repository",
       "identifier": "joinourdcserver",
-      "caption": "If your using the MySign IPA repo, please join our server for updates and free support. Tap me to join or enter this url: discord.gg/v4rGF3w3Vs",
-      "date": "2024-11-28",
-      "tintColor": "#4d9fb3",
-      "imageURL": "https://cdn1.realmzer.xyz//Discord_Symbol_1141822239-fz.png",
+      "caption": "If your interested in my projects you can join my server by clicking this.",
+      "date": "2025-1-28",
+      "tintColor": "#326B8B",
+      "imageURL": "https://cdn1.realmzer.xyz//IMG_4153-UV.png",
       "url": "https://discord.gg/hUK5m9MGFc",
       "notify": true
     }
