@@ -1,0 +1,48 @@
+{
+  "name": "Gliddd4 Repo",
+  "identifier": "gliddd4.repo",
+  "iconURL": "https://cdn1.realmzer.xyz//Untitled_Artwork-w6.png",
+  "website": "https://discord.gg/hUK5m9MGFc",
+  "subtitle": "Repository for @gliddd4's apps",
+  "description": "Small personal repository for only my projects.",
+  "tintColor": "D3D5D4",
+  "featuredApps": [
+    "dummyapp",
+    "com.gliddd4.realmzer.mysign",
+  ],
+  
+  "apps": [
+    {
+      "beta": true,
+      "name" : "MySign",
+      "bundleIdentifier": "com.gliddd4.realmzer.mysign",
+      "developerName" : "gliddd4",
+      "subtitle": "First release for MySign, IPA Sideloader",
+      "description": "Please give feedback in our discord server! This is the first release for MySign, IPA Sideloader.\n https://discord.gg/hUK5m9MGFc\n Status:🔥",
+      "localizedDescription": "Please give feedback in our discord server! This is the first release for MySign, IPA Sideloader.\n https://discord.gg/hUK5m9MGFc\n Status: 🔥",
+      "iconURL": "https://cdn1.realmzer.xyz//IMG_4153-UV.png",
+      "tintColor": "326B8B",
+      "category": "utilities",
+      "version": "1.0",
+      "versionDate" : "2024-12-26",
+      "downloadURL": "https://cdn1.realmzer.xyz//My_Sign-5h.ipa",
+      "size": 2860000,
+      "title": "MySign",
+      "url": "https://discord.gg/hUK5m9MGFc"
+    }
+     ],
+  "news": [
+    {
+      "title": "Join our Discord Server!",
+      "identifier": "joinourdcserver",
+      "caption": "If your using the MySign IPA repo, please join our server for updates and free support. Tap me to join or enter this url: discord.gg/v4rGF3w3Vs",
+      "date": "2024-11-28",
+      "tintColor": "#4d9fb3",
+      "imageURL": "https://cdn1.realmzer.xyz//Discord_Symbol_1141822239-fz.png",
+      "url": "https://discord.gg/hUK5m9MGFc",
+      "notify": true
+    }
+  ]
+}
+
+    
