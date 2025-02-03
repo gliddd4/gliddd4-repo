@@ -29,7 +29,25 @@
       "size": 2860000,
       "title": "MySign",
       "url": "https://discord.gg/hUK5m9MGFc"
-    }
+    },
+    {
+      "beta": true,
+      "name" : "TrollTrollStore",
+      "bundleIdentifier": "com.opa334.Trollstore",
+      "developerName" : "opa334",
+      "subtitle": "TrollStore but instead of trolling apple you can troll people to think you have TrollStore",
+      "description": "TrollStore but instead of trolling apple you can troll people to think you have TrollStore\nStatus: âœ…ðŸ”¥",
+      "localizedDescription": "TrollStore but instead of trolling apple you can troll people to think you have TrollStore\nStatus: âœ…ðŸ”¥",
+      "iconURL": "https://cdn1.realmzer.xyz//IMG_4095-FQ.jpeg",
+      "tintColor": "00BFFE",
+      "category": "utilities",
+      "version": "2.1",
+      "versionDate" : "2025-2-3",
+      "downloadURL": "https://cdn1.realmzer.xyz//Troll_Troll_Store_My_Sign-Ra.ipa",
+      "size": 3470000,
+      "title": "TrollTrollStore",
+      "url": "https://discord.gg/hUK5m9MGFc"
+    },
     {
       "beta": true,
       "name" : "WSF Portal",
