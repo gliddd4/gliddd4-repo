@@ -4,7 +4,7 @@
   "iconURL": "https://cdn1.realmzer.xyz//Untitled_Artwork-w6.png",
   "website": "https://discord.gg/hUK5m9MGFc",
   "subtitle": "Repository for @gliddd4's apps",
-  "description": "Small personal repository for only my projects.",
+  "description": "Small personal repository for @gliddd4 projects",
   "tintColor": "D3D5D4",
   "featuredApps": [
     "dummyapp",
@@ -17,9 +17,9 @@
       "name" : "MySign",
       "bundleIdentifier": "com.gliddd4.realmzer.mysign",
       "developerName" : "gliddd4",
-      "subtitle": "First release for MySign, IPA Sideloader",
-      "description": "Please give feedback in our discord server! This is the first release for MySign, IPA Sideloader.\n https://discord.gg/hUK5m9MGFc\n Status:🔥",
-      "localizedDescription": "Please give feedback in our discord server! This is the first release for MySign, IPA Sideloader.\n https://discord.gg/hUK5m9MGFc\n Status: 🔥",
+      "subtitle": "Initial release for MySign. 1.0",
+      "description": "⚠️ version 1.0 and below do not sideload. Please wait until 2.22.25 for MySign 2.0 to release.",
+      "localizedDescription": "⚠️ version 1.0 and below do not sideload. Please wait until 2.22.25 for MySign 2.0 to release.",
       "iconURL": "https://cdn1.realmzer.xyz//IMG_4153-UV.png",
       "tintColor": "#326B8B",
       "category": "utilities",
@@ -29,6 +29,23 @@
       "size": 2860000,
       "title": "MySign",
       "url": "https://discord.gg/hUK5m9MGFc"
+    }
+    {
+      "beta": true,
+      "name" : "WSF Portal",
+      "bundleIdentifier": "opaj29",
+      "developerName" : "WSF Team",
+      "subtitle": "Sign Portal with any certificate 🔥",
+      "description": "Portal app on a publicly available repository so it’s more accessible.",
+      "localizedDescription": "Portal app on a publicly available repository so it’s more accessible.",
+      "iconURL": "https://github.com/WhySooooFurious/Ultimate-Sideloading-Guide/blob/main/branding.png?raw=true",
+      "tintColor": "#FFFFFF",
+      "category": "utilities",
+      "version": "2.1.1",
+      "versionDate" : "2025-2-3",
+      "downloadURL": "https://files.catbox.moe/opoj29.ipa",
+      "size": 24760000,
+      "title": "Portal",
     }
     ],
   "news": [
