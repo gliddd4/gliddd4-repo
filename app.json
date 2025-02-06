@@ -4,7 +4,7 @@
   "iconURL": "https://cdn1.realmzer.xyz/Untitled_Artwork-w6.png",
   "website": "https://discord.gg/hUK5m9MGFc",
   "subtitle": "Repository for @gliddd4's apps",
-  "description": "Small personal repository for @gliddd4 projects",
+  "description": "Repository for @gliddd4 projects and compiled social media tweaks. ✅ = working, ❌ = not working.",
   "tintColor": "D3D5D4",
   "featuredApps": [
     "dummyapp",
@@ -13,7 +13,7 @@
   "apps": [
     {
       "beta": true,
-      "name": "MySign",
+      "name": "✅ MySign",
       "bundleIdentifier": "com.gliddd4.realmzer.mysign",
       "developerName": "gliddd4",
       "subtitle": "Initial release for MySign. 1.0",
@@ -31,7 +31,7 @@
     },
     {
       "beta": true,
-      "name": "TrollTrollStore",
+      "name": "✅ TrollTrollStore",
       "bundleIdentifier": "com.opa334.Trollstore",
       "developerName": "opa334",
       "subtitle": "TrollStore but instead of trolling Apple, you can troll people into thinking you have TrollStore",
@@ -48,22 +48,16 @@
       "url": "https://discord.gg/hUK5m9MGFc"
     },
     {
-      "beta": true,
-      "name": "WSF Portal",
-      "bundleIdentifier": "opaj29",
-      "developerName": "WSF Team",
-      "subtitle": "Sign Portal with any certificate 🔥",
-      "description": "Portal app on a publicly available repository so it’s more accessible.",
-      "localizedDescription": "Portal app on a publicly available repository so it’s more accessible.",
-      "iconURL": "https://github.com/WhySooooFurious/Ultimate-Sideloading-Guide/blob/main/branding.png?raw=true",
-      "tintColor": "#FFFFFF",
-      "category": "utilities",
-      "version": "2.1.1",
-      "versionDate": "2025-02-03",
-      "downloadURL": "https://files.catbox.moe/opoj29.ipa",
-      "size": 24760000,
-      "title": "Portal"
-    }
+      "name": "✅ YTLite Full",
+      "bundleIdentifier": "com.google.ios.youtube",
+      "developerName": "SultanMods",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5c/b1/e8/5cb1e895-95b4-3e92-d215-e98b1b21ec4b/logo_youtube_2024_q4_color-0-1x_U007emarketing-0-0-0-6-0-0-0-85-220-0.png/512x512bb.jpg",
+      "version": "20.05.4",
+      "size": 113014829,
+      "downloadURL": "https://repo.sultanmods.fyi/355244b7-2659-4812-83ae-7d5c467d15d9/Youtube20.05.4YTLite5.1FullFeb3rdMoe.ipa",
+      "localizedDescription": "YouTube 20.05.4 YTLite 5.1 Full Feb 2nd (turn off vp9 if you have a 15 pro or above)\n https://t.me/SultanModsiOS",
+      "versionDate": "2025-02-02"
+    },
   ],
   "news": [
     {
