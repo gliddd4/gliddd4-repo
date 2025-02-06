@@ -58,6 +58,17 @@
       "localizedDescription": "YouTube 20.05.4 YTLite 5.1 Full Feb 2nd (turn off vp9 if you have a 15 pro or above)\n https://t.me/SultanModsiOS",
       "versionDate": "2025-02-02"
     },
+    {
+      "name": "Classic BHTwitter+",
+      "bundleIdentifier": "com.atebits.Tweetie2",
+      "developerName": "SultanMods",
+      "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/db/29/ce/db29ce93-44b8-deb4-75ea-1c3f8e7027a2/ProductionAppIcon-0-0-1x_U007emarketing-0-7-0-0-0-85-220.png/512x512bb.jpg",
+      "version": "10.79.1",
+      "size": 145580851,
+      "downloadURL": "https://repo.sultanmods.fyi/de9a464b-9899-4b75-b1b4-86e00fe7632c/Classic_BHTwitter+_10.79.1_Jacks_Apps_Yellow.ipa",
+      "localizedDescription": "Classic BHTwitter+ 10.79.1",
+      "versionDate": "2025-02-05"
+    },
   ],
   "news": [
     {
