@@ -17,8 +17,8 @@
       "bundleIdentifier": "com.gliddd4.realmzer.mysign",
       "developerName": "gliddd4",
       "subtitle": "Initial release for MySign. 1.0",
-      "description": "⚠️ Version 1.0 and below do not sideload. Please wait until 2.22.25 for MySign 2.0 to release.",
-      "localizedDescription": "⚠️ Version 1.0 and below do not sideload. Please wait until 2.22.25 for MySign 2.0 to release.",
+      "description": "⚠️ Version 1.0 and below do not sideload. Please wait until 3.20.25 for MySign 2.0 to release.",
+      "localizedDescription": "⚠️ Version 1.0 and below do not sideload. Please wait until 3.20.25 for MySign 2.0 to release.",
       "iconURL": "https://cdn1.realmzer.xyz/IMG_4153-UV.png",
       "tintColor": "#326B8B",
       "category": "utilities",
@@ -49,6 +49,15 @@
     },
   ],
   "news": [
+    {
+      "title": "MySigb 2.0 has been delayed s0n",
+      "identifier": "noooanotherdelayihatemysign",
+      "caption": "Because of irl stuff I am delaying 2.0 to 3.20.25 so I can finish all planned functionality without disappointing yall.",
+      "date": "2025-02-7",
+      "tintColor": "#326B8B",
+      "url": "https://discord.gg/hUK5m9MGFc",
+      "notify": true
+    }
     {
       "title": "Thanks for using my personal repository",
       "identifier": "joinourdcserver",
