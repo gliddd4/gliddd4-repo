@@ -46,18 +46,18 @@
       "size": 3470000,
       "title": "TrollTrollStore",
       "url": "https://discord.gg/hUK5m9MGFc"
-    },
+    }
   ],
   "news": [
     {
-      "title": "MySigb 2.0 has been delayed s0n",
+      "title": "MySign 2.0 has been delayed s0n",
       "identifier": "noooanotherdelayihatemysign",
       "caption": "Because of irl stuff I am delaying 2.0 to 3.20.25 so I can finish all planned functionality without disappointing yall.",
-      "date": "2025-02-7",
+      "date": "2025-02-07",
       "tintColor": "#326B8B",
       "url": "https://discord.gg/hUK5m9MGFc",
       "notify": true
-    }
+    },
     {
       "title": "Thanks for using my personal repository",
       "identifier": "joinourdcserver",
