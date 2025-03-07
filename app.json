@@ -1,7 +1,7 @@
 {
   "name": "Gliddd4 Repo",
   "identifier": "gliddd4.repo",
-  "iconURL": "https://cdn1.realmzer.xyz/Untitled_Artwork-w6.png",
+  "iconURL": "https://github.com/c04b2daf-eee6-44f4-ae24-6d527601bb2d",
   "website": "https://discord.gg/hUK5m9MGFc",
   "subtitle": "Repository for @gliddd4's apps",
   "description": "Repository for @gliddd4 projects.",
@@ -49,15 +49,6 @@
     }
   ],
   "news": [
-    {
-      "title": "MySign 2.0 has been delayed s0n",
-      "identifier": "noooanotherdelayihatemysign",
-      "caption": "Because of irl stuff I am delaying 2.0 to 3.20.25 so I can finish all planned functionality without disappointing yall.",
-      "date": "2025-02-07",
-      "tintColor": "#326B8B",
-      "url": "https://discord.gg/hUK5m9MGFc",
-      "notify": true
-    },
     {
       "title": "Thanks for using my personal repository",
       "identifier": "joinourdcserver",
