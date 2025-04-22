@@ -1,13 +1,12 @@
 {
-  "name": "Gliddd4 Repo",
+  "name": "gliddd4 Repo",
   "identifier": "gliddd4.repo",
   "iconURL": "https://github.com/c04b2daf-eee6-44f4-ae24-6d527601bb2d",
   "website": "https://discord.gg/hUK5m9MGFc",
-  "subtitle": "Repository for @gliddd4's apps",
+  "subtitle": "Repository for @gliddd4's projects",
   "description": "Repository for @gliddd4 projects.",
-  "tintColor": "D3D5D4",
+  "tintColor": "#D3D5D4",
   "featuredApps": [
-    "dummyapp",
     "com.gliddd4.realmzer.mysign"
   ],
   "apps": [
@@ -16,47 +15,28 @@
       "name": "MySign",
       "bundleIdentifier": "com.gliddd4.realmzer.mysign",
       "developerName": "gliddd4",
-      "subtitle": "Initial release for MySign. 1.0",
-      "description": "⚠️ Version 1.0 and below do not sideload. Please wait for MySign 2.0 to release.",
-      "localizedDescription": "⚠️ Version 1.0 and below do not sideload. Please wait for MySign 2.0 to release.",
+      "subtitle": "Preview for MySign",
+      "description": "A very simple repository viewer.",
+      "localizedDescription": "A very simple repository viewer.",
       "iconURL": "https://cdn1.realmzer.xyz/IMG_4153-UV.png",
       "tintColor": "#326B8B",
       "category": "utilities",
-      "version": "1.0",
+      "version": "Preview",
       "versionDate": "2024-12-26",
       "downloadURL": "https://github.com/Gliddd4/gliddd4-repo/raw/refs/heads/main/MySign_1.0_1741308653.ipa",
       "size": 2860000,
       "title": "MySign",
       "url": "https://discord.gg/hUK5m9MGFc"
     },
-    {
-      "beta": true,
-      "name": "TrollTrollStore (Download is broken)",
-      "bundleIdentifier": "com.opa334.Trollstore",
-      "developerName": "opa334",
-      "subtitle": "TrollStore but instead of trolling Apple, you can troll people into thinking you have TrollStore",
-      "description": "TrollStore but instead of trolling Apple, you can troll people into thinking you have TrollStore\nStatus: ❌",
-      "localizedDescription": "TrollStore but instead of trolling Apple, you can troll people into thinking you have TrollStore\nStatus: ❌",
-      "iconURL": "https://cdn1.realmzer.xyz/IMG_4095-FQ.jpeg",
-      "tintColor": "#00BFFE",
-      "category": "utilities",
-      "version": "2.1",
-      "versionDate": "2025-02-03",
-      "downloadURL": "https://cdn1.realmzer.xyz/Troll_Troll_Store_My_Sign-Ra.ipa",
-      "size": 3470000,
-      "title": "TrollTrollStore",
-      "url": "https://discord.gg/hUK5m9MGFc"
-    }
   ],
   "news": [
     {
-      "title": "Thanks for using my personal repository",
+      "title": "Thanks for using my repo",
       "identifier": "joinourdcserver",
-      "caption": "If you're interested in my projects, you can join my server by clicking this.",
-      "date": "2025-01-28",
+      "caption": "If you want updates on MySign, you can join my discord server by clicking this.",
+      "date": "2025-04-22",
       "tintColor": "#326B8B",
-      "imageURL": "https://cdn1.realmzer.xyz/IMG_4153-UV.png",
-      "url": "https://discord.gg/hUK5m9MGFc",
+      "url": "https://dsc.gg/mysign",
       "notify": true
     }
   ]
